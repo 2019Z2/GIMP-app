@@ -13,7 +13,7 @@ Features:
      height="80">](https://play.google.com/store/apps/details?id=tech.ula.gimp)
      
 ## Have a bug report or a feature request?
-You can see our templates by visiting our [issue center](https://github.com/CypherpunkArmory/GIMP/issues).
+there's a whole section fir tgat, of course. 
 
 ## This is FOSS
 This app is released under the GPLv3.  The source code can be found here.
